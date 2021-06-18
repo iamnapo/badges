@@ -1,7 +1,7 @@
 {
 	"name": "badges",
 	"version": "0.0.0",
-	"description": "Conveniently get badges for my projects",
+	"description": "shields.io badges with iamnapo’s preferred style",
 	"keywords": [
 		"badges",
 		"shieldsio",
