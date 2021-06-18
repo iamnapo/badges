@@ -1,0 +1,22 @@
+{
+	"name": "badges",
+	"version": "0.0.0",
+	"description": "Conveniently get badges for my projects",
+	"keywords": [
+		"badges",
+		"shieldsio",
+		"netlify",
+		"iamnapo"
+	],
+	"homepage": "https://github.com/iamnapo/badges#readme",
+	"bugs": {
+		"url": "https://github.com/iamnapo/badges/issues"
+	},
+	"repository": "github:iamnapo/badges",
+	"license": "MIT",
+	"author": {
+		"name": "Napoleon-Christos Oikonomou",
+		"email": "Napoleonoikon@gmail.com",
+		"url": "https://iamnapo.me"
+	}
+}
