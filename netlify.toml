@@ -14,7 +14,7 @@ to = "https://img.shields.io/badge/code%20style-iamnapo-cyan.svg?style=for-the-b
 status = 200
 
 [[redirects]]
-from = "/style/*"
+from = "/deps/*"
 to = "https://img.shields.io/david/:splat.svg?style=for-the-badge"
 status = 200
 
