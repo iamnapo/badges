@@ -1,10 +1,11 @@
 {
 	"name": "badges",
 	"version": "0.0.0",
-	"description": "shields.io badges with iamnapo’s preferred style",
+	"description": "Badges with iamnapo’s preferred style",
 	"keywords": [
 		"badges",
 		"shieldsio",
+		"badgen",
 		"netlify",
 		"iamnapo"
 	],

@@ -1,24 +1,29 @@
 [[redirects]]
-from = "/ci/*"
-to = "https://img.shields.io/github/workflow/status/:splat/ci?style=for-the-badge&logo=github&label="
-status = 200
+	from = "/ci/*"
+	to = "https://img.shields.io/github/workflow/status/:splat/ci?style=for-the-badge&logo=github&label="
+	status = 200
 
 [[redirects]]
-from = "/npm/*"
-to = "https://img.shields.io/npm/v/:splat.svg?style=for-the-badge&logo=npm&label="
-status = 200
+	from = "/npm/*"
+	to = "https://img.shields.io/npm/v/:splat.svg?style=for-the-badge&logo=npm&label="
+	status = 200
 
 [[redirects]]
-from = "/style/*"
-to = "https://img.shields.io/badge/code%20style-iamnapo-cyan.svg?style=for-the-badge"
-status = 200
+	from = "/style/*"
+	to = "https://img.shields.io/badge/code%20style-iamnapo-cyan.svg?style=for-the-badge"
+	status = 200
 
 [[redirects]]
-from = "/deps/*"
-to = "https://img.shields.io/david/:splat.svg?style=for-the-badge"
-status = 200
+	from = "/deps/*"
+	to = "https://img.shields.io/david/:splat.svg?style=for-the-badge"
+	status = 200
 
 [[redirects]]
-from = "/*"
-to = "https://iamnapo.me"
-status = 200
+	from = "/size/*"
+	to = "https://img.shields.io/bundlephobia/min/:splat.svg?style=for-the-badge&label=size"
+	status = 200
+
+[[redirects]]
+	from = "/*"
+	to = "https://iamnapo.me"
+	status = 200
