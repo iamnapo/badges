@@ -1,6 +1,6 @@
 [[redirects]]
 	from = "/ci/*"
-	to = "https://img.shields.io/github/actions/workflow/status/:splat/ci?branch=main&style=for-the-badge&logo=github&label="
+	to = "https://img.shields.io/github/actions/workflow/status/:splat/ci.yml?branch=main&style=for-the-badge&logo=github&label="
 	status = 200
 
 [[redirects]]
